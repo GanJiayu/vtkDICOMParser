@@ -18,5 +18,19 @@
     <ClCompile Include="Test Main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ShiftChar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShiftString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ShiftChar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShiftString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
